@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\01.Practice-Integer-Numbers\bin\Debug\netcoreapp2.0\01.Practice-Integer-Numbers.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\01.Practice-Integer-Numbers\bin\Debug\netcoreapp2.0\01.Practice-Integer-Numbers.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\01.Practice-Integer-Numbers\bin\Debug\netcoreapp2.0\01.Practice-Integer-Numbers.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\01.Practice-Integer-Numbers\bin\Debug\netcoreapp2.0\01.Practice-Integer-Numbers.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\01.Practice-Integer-Numbers\bin\Debug\netcoreapp2.0\01.Practice-Integer-Numbers.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\01.Practice-Integer-Numbers\obj\Debug\netcoreapp2.0\01.Practice-Integer-Numbers.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\01.Practice-Integer-Numbers\obj\Debug\netcoreapp2.0\01.Practice-Integer-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\01.Practice-Integer-Numbers\obj\Debug\netcoreapp2.0\01.Practice-Integer-Numbers.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\01.Practice-Integer-Numbers\obj\Debug\netcoreapp2.0\01.Practice-Integer-Numbers.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\01.Practice-Integer-Numbers\obj\Debug\netcoreapp2.0\01.Practice-Integer-Numbers.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\01.Practice-Integer-Numbers\obj\Debug\netcoreapp2.0\01.Practice-Integer-Numbers.pdb
