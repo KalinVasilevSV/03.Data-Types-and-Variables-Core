@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\10.Reversed-Characters\bin\Debug\netcoreapp2.0\10.Reversed-Characters.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\10.Reversed-Characters\bin\Debug\netcoreapp2.0\10.Reversed-Characters.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\10.Reversed-Characters\bin\Debug\netcoreapp2.0\10.Reversed-Characters.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\10.Reversed-Characters\bin\Debug\netcoreapp2.0\10.Reversed-Characters.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\10.Reversed-Characters\bin\Debug\netcoreapp2.0\10.Reversed-Characters.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\10.Reversed-Characters\obj\Debug\netcoreapp2.0\10.Reversed-Characters.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\10.Reversed-Characters\obj\Debug\netcoreapp2.0\10.Reversed-Characters.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\10.Reversed-Characters\obj\Debug\netcoreapp2.0\10.Reversed-Characters.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\10.Reversed-Characters\obj\Debug\netcoreapp2.0\10.Reversed-Characters.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\10.Reversed-Characters\obj\Debug\netcoreapp2.0\10.Reversed-Characters.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\10.Reversed-Characters\obj\Debug\netcoreapp2.0\10.Reversed-Characters.pdb

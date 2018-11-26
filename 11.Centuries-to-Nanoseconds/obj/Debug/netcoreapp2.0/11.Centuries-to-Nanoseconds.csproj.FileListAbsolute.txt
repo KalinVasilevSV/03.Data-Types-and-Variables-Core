@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\11.Centuries-to-Nanoseconds\obj\Debug\netcoreapp2.0\11.Centuries-to-Nanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\11.Centuries-to-Nanoseconds\obj\Debug\netcoreapp2.0\11.Centuries-to-Nanoseconds.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\11.Centuries-to-Nanoseconds\obj\Debug\netcoreapp2.0\11.Centuries-to-Nanoseconds.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\11.Centuries-to-Nanoseconds\bin\Debug\netcoreapp2.0\11.Centuries-to-Nanoseconds.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\11.Centuries-to-Nanoseconds\bin\Debug\netcoreapp2.0\11.Centuries-to-Nanoseconds.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\11.Centuries-to-Nanoseconds\bin\Debug\netcoreapp2.0\11.Centuries-to-Nanoseconds.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\11.Centuries-to-Nanoseconds\bin\Debug\netcoreapp2.0\11.Centuries-to-Nanoseconds.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\11.Centuries-to-Nanoseconds\bin\Debug\netcoreapp2.0\11.Centuries-to-Nanoseconds.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\11.Centuries-to-Nanoseconds\obj\Debug\netcoreapp2.0\11.Centuries-to-Nanoseconds.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\11.Centuries-to-Nanoseconds\obj\Debug\netcoreapp2.0\11.Centuries-to-Nanoseconds.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\11.Centuries-to-Nanoseconds\obj\Debug\netcoreapp2.0\11.Centuries-to-Nanoseconds.csprojAssemblyReference.cache

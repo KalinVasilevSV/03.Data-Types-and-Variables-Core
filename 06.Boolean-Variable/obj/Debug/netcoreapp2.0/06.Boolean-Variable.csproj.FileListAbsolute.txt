@@ -1,0 +1,10 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\06.Boolean-Variable\bin\Debug\netcoreapp2.0\06.Boolean-Variable.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\06.Boolean-Variable\bin\Debug\netcoreapp2.0\06.Boolean-Variable.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\06.Boolean-Variable\bin\Debug\netcoreapp2.0\06.Boolean-Variable.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\06.Boolean-Variable\bin\Debug\netcoreapp2.0\06.Boolean-Variable.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\06.Boolean-Variable\bin\Debug\netcoreapp2.0\06.Boolean-Variable.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\06.Boolean-Variable\obj\Debug\netcoreapp2.0\06.Boolean-Variable.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\06.Boolean-Variable\obj\Debug\netcoreapp2.0\06.Boolean-Variable.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\06.Boolean-Variable\obj\Debug\netcoreapp2.0\06.Boolean-Variable.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\06.Boolean-Variable\obj\Debug\netcoreapp2.0\06.Boolean-Variable.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\06.Boolean-Variable\obj\Debug\netcoreapp2.0\06.Boolean-Variable.pdb

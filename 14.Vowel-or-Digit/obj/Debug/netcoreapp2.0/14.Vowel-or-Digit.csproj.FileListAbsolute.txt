@@ -1,0 +1,10 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\14.Vowel-or-Digit\bin\Debug\netcoreapp2.0\14.Vowel-or-Digit.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\14.Vowel-or-Digit\bin\Debug\netcoreapp2.0\14.Vowel-or-Digit.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\14.Vowel-or-Digit\bin\Debug\netcoreapp2.0\14.Vowel-or-Digit.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\14.Vowel-or-Digit\bin\Debug\netcoreapp2.0\14.Vowel-or-Digit.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\14.Vowel-or-Digit\bin\Debug\netcoreapp2.0\14.Vowel-or-Digit.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\14.Vowel-or-Digit\obj\Debug\netcoreapp2.0\14.Vowel-or-Digit.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\14.Vowel-or-Digit\obj\Debug\netcoreapp2.0\14.Vowel-or-Digit.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\14.Vowel-or-Digit\obj\Debug\netcoreapp2.0\14.Vowel-or-Digit.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\14.Vowel-or-Digit\obj\Debug\netcoreapp2.0\14.Vowel-or-Digit.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\14.Vowel-or-Digit\obj\Debug\netcoreapp2.0\14.Vowel-or-Digit.pdb

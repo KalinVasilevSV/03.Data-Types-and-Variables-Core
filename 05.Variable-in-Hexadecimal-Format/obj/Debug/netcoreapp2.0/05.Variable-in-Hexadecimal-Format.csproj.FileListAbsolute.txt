@@ -1,0 +1,10 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\05.Variable-in-Hexadecimal-Format\bin\Debug\netcoreapp2.0\05.Variable-in-Hexadecimal-Format.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\05.Variable-in-Hexadecimal-Format\bin\Debug\netcoreapp2.0\05.Variable-in-Hexadecimal-Format.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\05.Variable-in-Hexadecimal-Format\bin\Debug\netcoreapp2.0\05.Variable-in-Hexadecimal-Format.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\05.Variable-in-Hexadecimal-Format\bin\Debug\netcoreapp2.0\05.Variable-in-Hexadecimal-Format.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\05.Variable-in-Hexadecimal-Format\bin\Debug\netcoreapp2.0\05.Variable-in-Hexadecimal-Format.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\05.Variable-in-Hexadecimal-Format\obj\Debug\netcoreapp2.0\05.Variable-in-Hexadecimal-Format.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\05.Variable-in-Hexadecimal-Format\obj\Debug\netcoreapp2.0\05.Variable-in-Hexadecimal-Format.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\05.Variable-in-Hexadecimal-Format\obj\Debug\netcoreapp2.0\05.Variable-in-Hexadecimal-Format.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\05.Variable-in-Hexadecimal-Format\obj\Debug\netcoreapp2.0\05.Variable-in-Hexadecimal-Format.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\05.Variable-in-Hexadecimal-Format\obj\Debug\netcoreapp2.0\05.Variable-in-Hexadecimal-Format.pdb

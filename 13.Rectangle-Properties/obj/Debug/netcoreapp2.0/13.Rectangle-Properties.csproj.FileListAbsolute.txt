@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\13.Rectangle-Properties\bin\Debug\netcoreapp2.0\13.Rectangle-Properties.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\13.Rectangle-Properties\bin\Debug\netcoreapp2.0\13.Rectangle-Properties.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\13.Rectangle-Properties\bin\Debug\netcoreapp2.0\13.Rectangle-Properties.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\13.Rectangle-Properties\bin\Debug\netcoreapp2.0\13.Rectangle-Properties.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\13.Rectangle-Properties\bin\Debug\netcoreapp2.0\13.Rectangle-Properties.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\13.Rectangle-Properties\obj\Debug\netcoreapp2.0\13.Rectangle-Properties.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\13.Rectangle-Properties\obj\Debug\netcoreapp2.0\13.Rectangle-Properties.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\13.Rectangle-Properties\obj\Debug\netcoreapp2.0\13.Rectangle-Properties.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\13.Rectangle-Properties\obj\Debug\netcoreapp2.0\13.Rectangle-Properties.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\13.Rectangle-Properties\obj\Debug\netcoreapp2.0\13.Rectangle-Properties.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\13.Rectangle-Properties\obj\Debug\netcoreapp2.0\13.Rectangle-Properties.pdb

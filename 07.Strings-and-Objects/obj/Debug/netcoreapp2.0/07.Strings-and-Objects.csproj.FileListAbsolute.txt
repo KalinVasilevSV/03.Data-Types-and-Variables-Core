@@ -1,0 +1,10 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\07.Strings-and-Objects\bin\Debug\netcoreapp2.0\07.Strings-and-Objects.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\07.Strings-and-Objects\bin\Debug\netcoreapp2.0\07.Strings-and-Objects.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\07.Strings-and-Objects\bin\Debug\netcoreapp2.0\07.Strings-and-Objects.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\07.Strings-and-Objects\bin\Debug\netcoreapp2.0\07.Strings-and-Objects.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\07.Strings-and-Objects\bin\Debug\netcoreapp2.0\07.Strings-and-Objects.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\07.Strings-and-Objects\obj\Debug\netcoreapp2.0\07.Strings-and-Objects.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\07.Strings-and-Objects\obj\Debug\netcoreapp2.0\07.Strings-and-Objects.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\07.Strings-and-Objects\obj\Debug\netcoreapp2.0\07.Strings-and-Objects.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\07.Strings-and-Objects\obj\Debug\netcoreapp2.0\07.Strings-and-Objects.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\07.Strings-and-Objects\obj\Debug\netcoreapp2.0\07.Strings-and-Objects.pdb
