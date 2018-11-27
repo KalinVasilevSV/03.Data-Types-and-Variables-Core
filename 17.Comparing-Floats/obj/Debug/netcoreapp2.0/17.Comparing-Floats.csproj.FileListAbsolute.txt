@@ -8,3 +8,4 @@ C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-
 C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\17.Comparing-Floats\obj\Debug\netcoreapp2.0\17.Comparing-Floats.AssemblyInfo.cs
 C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\17.Comparing-Floats\obj\Debug\netcoreapp2.0\17.Comparing-Floats.dll
 C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\17.Comparing-Floats\obj\Debug\netcoreapp2.0\17.Comparing-Floats.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\17.Comparing-Floats\obj\Debug\netcoreapp2.0\17.Comparing-Floats.csprojAssemblyReference.cache

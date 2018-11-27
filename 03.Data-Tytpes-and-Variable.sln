@@ -27,11 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.Rectangle-Properties", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.Vowel-or-Digit", "14.Vowel-or-Digit\14.Vowel-or-Digit.csproj", "{7D1F357A-9408-4C5A-857A-40A3920FF1C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Integer-to-Hex-and-Binary", "15.Integer-to-Hex-and-Binary\15.Integer-to-Hex-and-Binary.csproj", "{BDD8777D-935B-4D40-B5F1-2D2D55AF5CFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.Integer-to-Hex-and-Binary", "15.Integer-to-Hex-and-Binary\15.Integer-to-Hex-and-Binary.csproj", "{BDD8777D-935B-4D40-B5F1-2D2D55AF5CFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Fast-Prime-Checker-Refactor", "16.Fast-Prime-Checker-Refactor\16.Fast-Prime-Checker-Refactor.csproj", "{7EFFEC08-9310-4C76-95E3-F0FC07710C3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.Fast-Prime-Checker-Refactor", "16.Fast-Prime-Checker-Refactor\16.Fast-Prime-Checker-Refactor.csproj", "{7EFFEC08-9310-4C76-95E3-F0FC07710C3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.Comparing-Floats", "17.Comparing-Floats\17.Comparing-Floats.csproj", "{EE12E61B-A2C1-4EF7-B059-FF74D5D408E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.Comparing-Floats", "17.Comparing-Floats\17.Comparing-Floats.csproj", "{EE12E61B-A2C1-4EF7-B059-FF74D5D408E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.Print-Part-of-the-ASCII-Table", "18.Print-Part-of-the-ASCII-Table\18.Print-Part-of-the-ASCII-Table.csproj", "{67D2706A-BFB0-45D1-9DDE-F34EF8DFD08C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{EE12E61B-A2C1-4EF7-B059-FF74D5D408E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE12E61B-A2C1-4EF7-B059-FF74D5D408E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE12E61B-A2C1-4EF7-B059-FF74D5D408E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D2706A-BFB0-45D1-9DDE-F34EF8DFD08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D2706A-BFB0-45D1-9DDE-F34EF8DFD08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D2706A-BFB0-45D1-9DDE-F34EF8DFD08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D2706A-BFB0-45D1-9DDE-F34EF8DFD08C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
