@@ -7,25 +7,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Practice-Integer-Numbers
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Practice-Floating-Points", "02.Practice-Floating-Points\02.Practice-Floating-Points.csproj", "{71EB98C4-8823-4E69-95D0-2AD091D82FC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Variable-in-Hexadecimal-Format", "05.Variable-in-Hexadecimal-Format\05.Variable-in-Hexadecimal-Format.csproj", "{097D5CB6-5B75-428D-8F2B-1A361890CBEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Variable-in-Hexadecimal-Format", "05.Variable-in-Hexadecimal-Format\05.Variable-in-Hexadecimal-Format.csproj", "{097D5CB6-5B75-428D-8F2B-1A361890CBEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Boolean-Variable", "06.Boolean-Variable\06.Boolean-Variable.csproj", "{97A55540-4F0D-4973-99A8-ABE55950CFA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Boolean-Variable", "06.Boolean-Variable\06.Boolean-Variable.csproj", "{97A55540-4F0D-4973-99A8-ABE55950CFA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Strings-and-Objects", "07.Strings-and-Objects\07.Strings-and-Objects.csproj", "{5827C027-958F-4E8F-B353-21E6BC2EE3B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Strings-and-Objects", "07.Strings-and-Objects\07.Strings-and-Objects.csproj", "{5827C027-958F-4E8F-B353-21E6BC2EE3B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Exchange-Variable-Values", "08.Exchange-Variable-Values\08.Exchange-Variable-Values.csproj", "{97ED45D5-2D51-4318-8873-1BFFB19A7373}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Exchange-Variable-Values", "08.Exchange-Variable-Values\08.Exchange-Variable-Values.csproj", "{97ED45D5-2D51-4318-8873-1BFFB19A7373}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Employee-Data", "09.Employee-Data\09.Employee-Data.csproj", "{38349C3F-7E41-453D-A620-7408B78D3C55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.Employee-Data", "09.Employee-Data\09.Employee-Data.csproj", "{38349C3F-7E41-453D-A620-7408B78D3C55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Reversed-Characters", "10.Reversed-Characters\10.Reversed-Characters.csproj", "{D00314B0-A975-4826-AEDB-83FEA50E7EC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.Reversed-Characters", "10.Reversed-Characters\10.Reversed-Characters.csproj", "{D00314B0-A975-4826-AEDB-83FEA50E7EC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Centuries-to-Nanoseconds", "11.Centuries-to-Nanoseconds\11.Centuries-to-Nanoseconds.csproj", "{2823653F-FB4F-44A4-BD9C-6D50CF01ED43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Centuries-to-Nanoseconds", "11.Centuries-to-Nanoseconds\11.Centuries-to-Nanoseconds.csproj", "{2823653F-FB4F-44A4-BD9C-6D50CF01ED43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Convert-Speed-Units", "12.Convert-Speed-Units\12.Convert-Speed-Units.csproj", "{E8445F6F-E5AC-45DA-8E6B-0B3D8EC7A7FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.Convert-Speed-Units", "12.Convert-Speed-Units\12.Convert-Speed-Units.csproj", "{E8445F6F-E5AC-45DA-8E6B-0B3D8EC7A7FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Rectangle-Properties", "13.Rectangle-Properties\13.Rectangle-Properties.csproj", "{2E915008-F06D-48B2-A1F5-38F4F058209A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.Rectangle-Properties", "13.Rectangle-Properties\13.Rectangle-Properties.csproj", "{2E915008-F06D-48B2-A1F5-38F4F058209A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Vowel-or-Digit", "14.Vowel-or-Digit\14.Vowel-or-Digit.csproj", "{7D1F357A-9408-4C5A-857A-40A3920FF1C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.Vowel-or-Digit", "14.Vowel-or-Digit\14.Vowel-or-Digit.csproj", "{7D1F357A-9408-4C5A-857A-40A3920FF1C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Integer-to-Hex-and-Binary", "15.Integer-to-Hex-and-Binary\15.Integer-to-Hex-and-Binary.csproj", "{BDD8777D-935B-4D40-B5F1-2D2D55AF5CFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Fast-Prime-Checker-Refactor", "16.Fast-Prime-Checker-Refactor\16.Fast-Prime-Checker-Refactor.csproj", "{7EFFEC08-9310-4C76-95E3-F0FC07710C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.Comparing-Floats", "17.Comparing-Floats\17.Comparing-Floats.csproj", "{EE12E61B-A2C1-4EF7-B059-FF74D5D408E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{7D1F357A-9408-4C5A-857A-40A3920FF1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D1F357A-9408-4C5A-857A-40A3920FF1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D1F357A-9408-4C5A-857A-40A3920FF1C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD8777D-935B-4D40-B5F1-2D2D55AF5CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD8777D-935B-4D40-B5F1-2D2D55AF5CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD8777D-935B-4D40-B5F1-2D2D55AF5CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD8777D-935B-4D40-B5F1-2D2D55AF5CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EFFEC08-9310-4C76-95E3-F0FC07710C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFFEC08-9310-4C76-95E3-F0FC07710C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFFEC08-9310-4C76-95E3-F0FC07710C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFFEC08-9310-4C76-95E3-F0FC07710C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE12E61B-A2C1-4EF7-B059-FF74D5D408E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE12E61B-A2C1-4EF7-B059-FF74D5D408E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE12E61B-A2C1-4EF7-B059-FF74D5D408E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE12E61B-A2C1-4EF7-B059-FF74D5D408E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

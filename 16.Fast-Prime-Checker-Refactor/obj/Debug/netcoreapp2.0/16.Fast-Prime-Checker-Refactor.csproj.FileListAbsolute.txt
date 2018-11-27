@@ -1,0 +1,10 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\16.Fast-Prime-Checker-Refactor\bin\Debug\netcoreapp2.0\16.Fast-Prime-Checker-Refactor.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\16.Fast-Prime-Checker-Refactor\bin\Debug\netcoreapp2.0\16.Fast-Prime-Checker-Refactor.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\16.Fast-Prime-Checker-Refactor\bin\Debug\netcoreapp2.0\16.Fast-Prime-Checker-Refactor.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\16.Fast-Prime-Checker-Refactor\bin\Debug\netcoreapp2.0\16.Fast-Prime-Checker-Refactor.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\16.Fast-Prime-Checker-Refactor\bin\Debug\netcoreapp2.0\16.Fast-Prime-Checker-Refactor.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\16.Fast-Prime-Checker-Refactor\obj\Debug\netcoreapp2.0\16.Fast-Prime-Checker-Refactor.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\16.Fast-Prime-Checker-Refactor\obj\Debug\netcoreapp2.0\16.Fast-Prime-Checker-Refactor.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\16.Fast-Prime-Checker-Refactor\obj\Debug\netcoreapp2.0\16.Fast-Prime-Checker-Refactor.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\16.Fast-Prime-Checker-Refactor\obj\Debug\netcoreapp2.0\16.Fast-Prime-Checker-Refactor.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\16.Fast-Prime-Checker-Refactor\obj\Debug\netcoreapp2.0\16.Fast-Prime-Checker-Refactor.pdb
