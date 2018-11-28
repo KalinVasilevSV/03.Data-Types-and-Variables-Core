@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\18.Print-Part-of-the-ASCII-Table\bin\Debug\netcoreapp2.0\18.Print-Part-of-the-ASCII-Table.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\18.Print-Part-of-the-ASCII-Table\bin\Debug\netcoreapp2.0\18.Print-Part-of-the-ASCII-Table.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\18.Print-Part-of-the-ASCII-Table\bin\Debug\netcoreapp2.0\18.Print-Part-of-the-ASCII-Table.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\18.Print-Part-of-the-ASCII-Table\bin\Debug\netcoreapp2.0\18.Print-Part-of-the-ASCII-Table.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\18.Print-Part-of-the-ASCII-Table\bin\Debug\netcoreapp2.0\18.Print-Part-of-the-ASCII-Table.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\18.Print-Part-of-the-ASCII-Table\obj\Debug\netcoreapp2.0\18.Print-Part-of-the-ASCII-Table.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\18.Print-Part-of-the-ASCII-Table\obj\Debug\netcoreapp2.0\18.Print-Part-of-the-ASCII-Table.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\18.Print-Part-of-the-ASCII-Table\obj\Debug\netcoreapp2.0\18.Print-Part-of-the-ASCII-Table.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\18.Print-Part-of-the-ASCII-Table\obj\Debug\netcoreapp2.0\18.Print-Part-of-the-ASCII-Table.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\18.Print-Part-of-the-ASCII-Table\obj\Debug\netcoreapp2.0\18.Print-Part-of-the-ASCII-Table.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\18.Print-Part-of-the-ASCII-Table\obj\Debug\netcoreapp2.0\18.Print-Part-of-the-ASCII-Table.pdb

@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\20.Thea-the-Photographer\bin\Debug\netcoreapp2.0\20.Thea-the-Photographer.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\20.Thea-the-Photographer\bin\Debug\netcoreapp2.0\20.Thea-the-Photographer.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\20.Thea-the-Photographer\bin\Debug\netcoreapp2.0\20.Thea-the-Photographer.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\20.Thea-the-Photographer\bin\Debug\netcoreapp2.0\20.Thea-the-Photographer.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\20.Thea-the-Photographer\bin\Debug\netcoreapp2.0\20.Thea-the-Photographer.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\20.Thea-the-Photographer\obj\Debug\netcoreapp2.0\20.Thea-the-Photographer.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\20.Thea-the-Photographer\obj\Debug\netcoreapp2.0\20.Thea-the-Photographer.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\20.Thea-the-Photographer\obj\Debug\netcoreapp2.0\20.Thea-the-Photographer.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\20.Thea-the-Photographer\obj\Debug\netcoreapp2.0\20.Thea-the-Photographer.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\20.Thea-the-Photographer\obj\Debug\netcoreapp2.0\20.Thea-the-Photographer.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\03.Data-Tytpes-and-Variable\20.Thea-the-Photographer\obj\Debug\netcoreapp2.0\20.Thea-the-Photographer.pdb
